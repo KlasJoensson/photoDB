@@ -1,11 +1,19 @@
+/*******************************************************************************
+ * Copyright (c) 2014  Klas Jönsson <klas.joensson@gmail.com>
+ *
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ ******************************************************************************/
 package joensson.photoDB;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
 /**
- * The task of this program is to be a simple GUI for a database containing information about 
- * photographs.
+ * The task of this program is to be a simple GUI for a database containing 
+ * information about photographs.
  * 
  * @author Klas Jönsson
  * 

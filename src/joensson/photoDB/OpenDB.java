@@ -1,8 +1,14 @@
+/*******************************************************************************
+ * Copyright (c) 2014  Klas Jönsson <klas.joensson@gmail.com>
+ *
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ ******************************************************************************/
 package joensson.photoDB;
 import java.awt.Container;
 import java.awt.Dimension;
-import java.awt.FlowLayout;
-import java.awt.GridLayout;
 import java.awt.GridBagLayout;
 import java.awt.GridBagConstraints;
 import java.awt.Toolkit;
@@ -23,8 +29,6 @@ import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.ListSelectionModel;
-import javax.swing.WindowConstants;
-
 
 public class OpenDB extends JFrame implements ActionListener{
 	private JLabel text = new JLabel();
